@@ -119,5 +119,9 @@ PRODUCT_PACKAGES += \
     DU-Fonts
 
 
+# Analog clocks
+PRODUCT_PACKAGES += \
+    AnalogDeadpool \
+    AnalogDu
 
     
